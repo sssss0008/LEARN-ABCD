@@ -1,0 +1,6 @@
+{
+  "name": "Learn ABCD",
+  "description": "A fun and interactive alphabet learning app for kids with phonics, voice sounds, tracing, games, quizzes, kid profiles, and ranking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
